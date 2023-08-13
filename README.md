@@ -19,10 +19,14 @@ PHP mailer to send automated emails
 
 Technologies Used: 
 -
-Frontend: HTML5, CSS3, JavaScript, Bootstrap
+Frontend: HTML5, CSS3, JavaScript, Bootstrap 
+
 Backend: PHP
+
 Database: MySQL with XAMPP PHP MyAdmin
+
 Responsive Design: CSS Grid, Flexbox, JQuery
+
 Version Control: Git and GitHub
 
 
