@@ -31,6 +31,7 @@ Version Control: Git and GitHub
 
 Live Demo: 
 - 
+Please note that I opted for a free hosting service, which may reduce service availability of certain features. If you run into any issues, please leave an open issue here. Thank you.
 https://aremar-airways.000webhostapp.com/index.php
 
 Video Demo:
