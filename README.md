@@ -35,4 +35,7 @@ https://aremar-airways.000webhostapp.com/index.php
 
 Video Demo:
 -
-tbr
+
+https://github.com/Kurayami7/Aremar-Airways/assets/124408792/d20e01fe-b92b-4643-9a96-95234b035407
+
+
