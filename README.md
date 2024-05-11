@@ -13,7 +13,7 @@ Key Features:
 * Dynamic itinerary creation and sharing capabilities
 * Comprehensive booking confirmation and e-ticket generation
 * Responsive design for optimal user experience across devices
-* Whether you're an aspiring developer looking to gain insights into building complex web applications or a seasoned professional aiming to explore the nuances of flight booking systems, Aremar Airways offers a * comprehensive showcase of both frontend and backend development practices.
+* Whether you're an aspiring developer looking to gain insights into building complex web applications or a seasoned professional aiming to explore the nuances of flight booking systems, Aremar Airways offers a comprehensive showcase of both frontend and backend development practices.
 * Admin Panel to manage existing flights and add existing ones.
 * PHP mailer to send automated emails
 
